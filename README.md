@@ -1,2 +1,2 @@
 # Jogo de memória usando HTML, CSS e JS
-## Este é um projeto proposto pela DIO, aqui fiz algumas modificações, como usar letras no lugar de imagens e também criei um sistema para poder criar um sistema de cartas com um número customizado de linhas e colunas com posições aleatórias.
+### Este é um projeto proposto pela DIO, aqui fiz algumas modificações, como usar letras no lugar de imagens e também criei um sistema para poder criar um sistema de cartas com um número customizado de linhas e colunas com posições aleatórias.
